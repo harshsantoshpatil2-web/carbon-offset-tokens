@@ -30,7 +30,6 @@ The vision of *COT* is to create a *transparent, decentralized, and verifiable s
 ---
 
 ## 5. Contract 
-> The contract address will be available once deployed to the Stacks blockchain.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b60737df-7fff-43d7-b6ef-da45f3dc7d25" />
 
 
